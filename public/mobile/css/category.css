@@ -1,0 +1,124 @@
+.lt_cateleft{
+  width: 90px;
+  height: 100%;
+  overflow: hidden;
+  float: left;
+}
+
+.lt_cateleft ul{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.lt_cateleft ul li{
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  background-color: #f3f4f5;
+}
+.lt_cateleft ul li.now{
+  border-right: none;
+  background-color: #fff;
+}
+
+
+.lt_cateleft ul li a{
+  color: #666;
+  font-size: 14px;
+  display: block;
+}
+
+.lt_cateleft ul li.now a{
+  color: #fa0;
+}
+
+.lt_cateright{
+  height: 100%;
+  overflow: hidden;
+}
+
+.lt_cateright ul{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.lt_cateright ul li{
+  width: 33.33%;
+  float: left;
+  margin-top: 10px;
+}
+
+.lt_cateright ul li.nd{
+  width: 100%;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+
+.lt_cateright ul li a{
+  display: block;
+  width: 100%;
+}
+
+
+.lt_cateright ul li a img{
+  display: block;
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+.lt_cateright ul li a p{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
